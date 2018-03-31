@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#desc {
+  width: 400px;
+  /* border: 1px solid black; */
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 5px;
+  line-height: 1.5;
+  font-weight: sans-serif;
+}
+
+#itemDetail {
+  width: 200px;
+  /* border: 1px solid black; */
+  line-height: 2;
+  margin: auto;
+  background-color: pink;
+}
+
+#result {
+  /* border: 1px solid black; */
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  /* margin-bottom: 5px; */
+  background-color: yellow;
+}
+
+#maxBudget {
+  /* border: 1px solid black; */
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  /* margin-bottom: 5px; */
+  background-color: blue;
+}
+
+#itemDetail input {
+
+}
